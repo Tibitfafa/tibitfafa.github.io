@@ -22,11 +22,11 @@
       class="border bg-white rounded-xl px-10 border-4 border-gray-300 py-8 shadow-lg shadow-red-300 text-center animate__animated animate__backInDown m-10 w-98"
       id="kartu"
     >
-      <h1 class="text-3xl">Happy Birthday</h1>
+      <h1 class="text-3xl">🎉Happy Birthday REY🎉</h1>
       <h3
         class="text-10xl font-bold text-red-500 animate__animated animate__infinite animate__pulse"
       >
-        🎉REY🎉
+🎂🕺🎂🕺🎂🕺
       </h3>
       <button
         href="Buat Rey dari Tibit.html"
