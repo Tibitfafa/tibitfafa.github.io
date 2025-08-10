@@ -24,7 +24,7 @@
     >
       <h1 class="text-3xl">Happy Birthday</h1>
       <h3
-        class="text-5xl font-bold text-red-500 animate__animated animate__infinite animate__pulse"
+        class="text-10xl font-bold text-red-500 animate__animated animate__infinite animate__pulse"
       >
         REY🎉
       </h3>
