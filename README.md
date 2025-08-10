@@ -18,7 +18,6 @@
       background-size: cover;
     "
   >
-  <audio src="Pharrell Williams - Happy (Video).mp3" controls></audio>
     <div
       class="border bg-white rounded-xl px-10 border-4 border-gray-300 py-8 shadow-lg shadow-red-300 text-center animate__animated animate__backInDown m-10 w-98"
       id="kartu"
