@@ -26,7 +26,7 @@
       <h3
         class="text-10xl font-bold text-red-500 animate__animated animate__infinite animate__pulse"
       >
-        REY🎉
+        🎉REY🎉
       </h3>
       <button
         href="Buat Rey dari Tibit.html"
@@ -40,7 +40,7 @@
     <script>
       let kartu = document.getElementById("kartu");
       function ubahKartu() {
-        kartu.innerHTML = `<h1 class="font-semibold text-wrap animate__animated animate__zoomIn">Barakallah fii umrik, Rey! AYEEE, ada yang nambah umur nihh? Firstt, gw mau mengapresiasi semua kerja keras dan pencapaian lu sampai detik ini, honestly, you're SO cool, Rey. Oh ya IMO, you are such a good (silly) friend too, hahaha you should know thatt. So, here I'm really gonna pray for you (AAMIINKAN LOHYA), semogaa tahun ini makin banyak kebahagiaan, segala urusan maupun rezeki lancar, dan segala impian jadi kenyataan, there must be a big dream that you're chasing, and you have to believe that you can be whatever you want. Semoga panjang umur, sehat selalu (kalau lagi capek, tolong istirahat yang cukup, ok, you also need happiness, rest, and care) Semoga kita bisa terus seru-seruan bareng, dan saling dukung, ya! Masih banyak lagi do'a terbaik dari gw yang gabisa gw ketik disini, karena bakal panjang pake banget. Gw, kita semua very proud of you, Rey. Once again, HAPPY HAPPY B'DAY! KITA SEMUA SAYANG REY 🎉🎂<h1>
+        kartu.innerHTML = `<h1 class="font-semibold text-wrap animate__animated animate__zoomIn">Barakallah fii umrik, Rey! AYEE, ada yang nambah umur nihh? Firstt, gw mau mengapresiasi semua kerja keras dan pencapaian lu sampai detik ini, honestly, you're SO cool, Rey. Oh ya IMO, you are such a good (silly) friend too, hahaha you should know thatt. So, here I'm really gonna pray for you (AAMIINKAN LOHYA), semogaa tahun ini makin banyak kebahagiaan, segala urusan maupun rezeki lancar, dan segala impian jadi kenyataan, there must be a big dream that you're chasing, and you have to believe that you can be whatever you want. Semoga panjang umur, sehat selalu (kalau lagi capek, tolong istirahat yang cukup, ok, you also need happiness, rest, and care) Semoga kita bisa terus seru-seruan bareng, dan saling dukung, ya! Masih banyak lagi do'a terbaik dari gw yang gabisa gw ketik disini, karena bakal panjang BANGET. Gw, kita semua, very proud of you, Rey. Once again, HAPPY HAPPY B'DAY YAA! KITA SEMUA SAYANG REY 🎉🎂<h1>
         <h2 class="mt-3 animate__animated animate__fadeIn">- Dari : Tibitfafa -</h2>
         <button onclick="refresh()" class="animate__animated animate__delay-1s animate__tada p-2 bg-slate-600 text-white rounded mt-5 hover:bg-slate-900 transition ease-in w-15000">SENYUUUMMM  :D</button>
           `;
