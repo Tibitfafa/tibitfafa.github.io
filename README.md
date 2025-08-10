@@ -26,7 +26,7 @@
       <h3
         class="text-10xl font-bold text-red-500 animate__animated animate__infinite animate__pulse"
       >
-        secuplik note ultah, monggo dibaca
+        secuplik note ultah, semoga ga muntah bacanya⚠️ 
       </h3>
       <button
         href="Buat Rey dari Tibit.html"
